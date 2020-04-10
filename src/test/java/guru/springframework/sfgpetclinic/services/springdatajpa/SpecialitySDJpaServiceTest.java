@@ -70,7 +70,7 @@ class SpecialitySDJpaServiceTest {
     @Test
     void deleteById() {
         //given - none
-        
+
         // when
         service.deleteById(1l);
         service.deleteById(1l);
